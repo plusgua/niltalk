@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/clementauger/tor-prebuilt/embedded"
+	"github.com/rahmir-fabrice/tor-prebuilt/embedded"
 	"github.com/cretz/bine/tor"
 	"github.com/cretz/bine/torutil"
 	tued25519 "github.com/cretz/bine/torutil/ed25519"

@@ -3,7 +3,7 @@ module github.com/knadh/niltalk
 go 1.13
 
 require (
-	github.com/clementauger/tor-prebuilt v0.0.0-20200815153310-0d7058794224
+	github.com/rahmir-fabrice/tor-prebuilt
 	github.com/cretz/bine v0.1.0
 	github.com/go-chi/chi v4.1.0+incompatible
 	github.com/gomodule/redigo v2.0.0+incompatible
